@@ -1,0 +1,10 @@
+八月 05, 2024 5:02:41 下午 book.manage.Main lambda$addBook$0
+信息: 新添加了一条书籍信息Book(bid=0, title=十宗罪, desc=恐怖, price=15.0)
+八月 05, 2024 5:04:57 下午 book.manage.Main lambda$addBook$0
+信息: 新添加了一条书籍信息Book(bid=0, title=斗罗大陆2, desc=霍雨浩, price=30.0)
+八月 05, 2024 6:34:30 下午 book.manage.Main lambda$addBook$0
+信息: 新添加了一条书籍信息Book(bid=0, title=0, desc=1, price=1.0)
+八月 05, 2024 7:05:02 下午 book.manage.Main lambda$addStudent$1
+信息: 新添加了一条学生信息student(sid=0, name=陈10, sex=男, grade=2023)
+八月 05, 2024 7:18:42 下午 book.manage.Main lambda$addBook$0
+信息: 新添加了一条书籍信息：Book(bid=0, title=斗罗大陆3, desc=唐家三少, price=30.0)
